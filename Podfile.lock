@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (3.4.0)
+  - FLAnimatedImage (1.0.12)
+
+DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire`)
+  - FLAnimatedImage (~> 1.0)
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :commit: 63af82a30c6bf509a1ed60032dccb476882c3fc3
+    :git: https://github.com/Alamofire/Alamofire
+
+SPEC CHECKSUMS:
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+
+PODFILE CHECKSUM: 33f062f46712ba92e427c397fc13060a635552f6
+
+COCOAPODS: 1.0.1
